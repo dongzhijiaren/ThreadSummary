@@ -15,8 +15,11 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    self.title = @"与狼共舞";
+    
+    self.view.backgroundColor = [UIColor whiteColor];
 }
 
 
