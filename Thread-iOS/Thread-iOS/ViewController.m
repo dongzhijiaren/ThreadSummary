@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     
     [super viewDidLoad];
-    self.title = @"与狼共舞";
+    self.title = @"GitHub使用";
     
     self.view.backgroundColor = [UIColor whiteColor];
 }
